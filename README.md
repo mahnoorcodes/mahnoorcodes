@@ -1,5 +1,5 @@
 <h1 align="center">⭐Hi, I'm Mahnoor⭐</h1>
-<h3 align="center">- I’m currently an IT Security Engineer Intern at a UAE-based company and a freelance web developer on Upwork. </h3>
+<h3 align="center">I’m currently an IT Security Engineer Intern at a UAE-based company and a freelance web developer on Upwork. </h3>
 
 <h3 align="left">👋🏽Connect with me:</h3>
 <p align="left">
