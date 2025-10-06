@@ -13,21 +13,6 @@
   </a>
 </p>
 
-<h1 align="center">Hi, I'm Mahnoor</h1>
-<h3 align="center">A passionate web developer from Pakistan</h3>
-
-- I’m currently **an IT Security Engineer Intern at a UAE-based company and a freelance web developer on Upwork.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="www.linkedin.com/in/mahnoor-faisal-36493a2ba" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahnoor faisal" height="30" width="40" />
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.upwork.com/freelancers/~0123c8d2af1fb979c6?mp_source=share" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/upwork.svg" alt="Mahnoor F. on Upwork" height="30" width="40" style="background:white; border-radius:6px; padding:4px;" />
-  </a>
-</p>
-
 <h3 align="left">📝 Languages:</h3>
 <p align="left">
   <a href="https://www.w3schools.com/cs/" target="_blank"><img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/></a>
