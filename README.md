@@ -1,5 +1,5 @@
 <h1 align="center">⭐Hi, I'm Mahnoor⭐</h1>
-<h3 align="center">- I’m currently **an IT Security Engineer Intern at a UAE-based company and a freelance web developer on Upwork.** </h3>
+<h3 align="center">- I’m currently an IT Security Engineer Intern at a UAE-based company and a freelance web developer on Upwork. </h3>
 
 <h3 align="left">👋🏽Connect with me:</h3>
 <p align="left">
@@ -8,6 +8,9 @@
   </a>
   <a href="https://www.upwork.com/freelancers/~0123c8d2af1fb979c6?mp_source=share" target="_blank">
     <img alt="Upwork" title="Hire me on Upwork" src="https://custom-icon-badges.demolab.com/badge/Upwork-darkgreen?style=for-the-badge&logo=upwork&logoColor=white"/>
+  </a>
+  <a href="mailto:mahnoor.faisal.h@gmail.com?subject=Hello%20Mahnoor&body=Hi%20Mahnoor,%0D%0A">
+    <img alt="Email" title="Email me" src="https://custom-icon-badges.demolab.com/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
@@ -47,11 +50,11 @@
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img alt="MSSQL" src="https://custom-icon-badges.demolab.com/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/></a>
   <a href="https://www.mysql.com/" target="_blank"><img alt="MySQL" src="https://custom-icon-badges.demolab.com/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/></a>
   <a href="https://www.sqlite.org/" target="_blank"><img alt="SQLite" src="https://custom-icon-badges.demolab.com/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/></a>
+  <a href="https://firebase.google.com/" target="_blank"><img alt="Firebase" src="https://custom-icon-badges.demolab.com/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/></a>
 </p>
 
 <h3 align="left">🤖 AI & Assistants:</h3>
 <p align="left">
-  <a href="https://firebase.google.com/" target="_blank"><img alt="Firebase" src="https://custom-icon-badges.demolab.com/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/></a>
   <a href="https://openai.com/chatgpt" target="_blank"><img alt="ChatGPT" src="https://custom-icon-badges.demolab.com/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white"/></a>
   <a href="https://github.com/features/copilot" target="_blank"><img alt="GitHub Copilot" src="https://custom-icon-badges.demolab.com/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white"/></a>
 </p>
