@@ -13,6 +13,7 @@
     alt="Mahnoor F. on Upwork"
     height="30"
     width="40"
+    style="background-color: white; padding: 5px; border-radius: 6px;"
   />
 </a>
 
