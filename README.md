@@ -9,13 +9,14 @@
 <a href="https://www.upwork.com/freelancers/~0123c8d2af1fb979c6?mp_source=share" target="_blank">
   <img
     align="center"
-    src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/upwork.png"
+    src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/upwork.svg"
     alt="Mahnoor F. on Upwork"
     height="30"
     width="40"
-    style="background-color: white; padding: 5px; border-radius: 6px;"
+    style="background:white; border-radius:6px; padding:4px;"
   />
 </a>
+
 
 
 </p>
