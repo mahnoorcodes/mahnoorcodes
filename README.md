@@ -6,7 +6,7 @@
 <h3 align="left">Reach out on:</h3>
 <p align="left">
 <a href="www.linkedin.com/in/mahnoor-faisal-36493a2ba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahnoor faisal" height="30" width="40" /></a>
-<a href="https://www.upwork.com/freelancers/~0123c8d2af1fb979c6?mp_source=share" target="_blank"><img align="center"src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/upwork.svg"alt="Mahnoor F. on Upwork"height="30"width="40"/></a>
+<a href="https://www.upwork.com/freelancers/~0123c8d2af1fb979c6?mp_source=share" target="_blank"><img align="center"src="https://cdn.iconduck.com/1700x1700/2048/upwork-icon-cc0wq54k.svg"alt="Mahnoor F. on Upwork"height="30"width="40"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
