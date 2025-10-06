@@ -1,9 +1,7 @@
-<h1 align="center">Hi, I'm Mahnoor</h1>
-<h3 align="center">A passionate web developer from Pakistan</h3>
+<h1 align="center">⭐Hi, I'm Mahnoor⭐</h1>
+<h3 align="center">- I’m currently **an IT Security Engineer Intern at a UAE-based company and a freelance web developer on Upwork.** </h3>
 
-- I’m currently **an IT Security Engineer Intern at a UAE-based company and a freelance web developer on Upwork.**
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">👋🏽Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/mahnoor-faisal-36493a2ba" target="_blank">
     <img alt="LinkedIn" title="Connect on LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -12,6 +10,14 @@
     <img alt="Upwork" title="Hire me on Upwork" src="https://custom-icon-badges.demolab.com/badge/Upwork-darkgreen?style=for-the-badge&logo=upwork&logoColor=white"/>
   </a>
 </p>
+
+### 📊 GitHub Stats:
+<a href="https://github.com/mahnoorfaisal">
+  <img src="https://github-readme-stats.vercel.app/api?username=mahnoorfaisal&show_icons=true&theme=radical" alt="Mahnoor's GitHub stats" height="180px"/>
+</a>
+<a href="https://github.com/mahnoorfaisal">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahnoorfaisal&layout=compact&theme=radical" alt="Top Languages" height="180px"/>
+</a>
 
 <h3 align="left">📝 Languages:</h3>
 <p align="left">
