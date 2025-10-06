@@ -1,11 +1,12 @@
-<h1 align="center">Hi 👋, I'm Mahnoor</h1>
+<h1 align="center">Hi, I'm Mahnoor</h1>
 <h3 align="center">A passionate web developer from Pakistan</h3>
 
-- 🔭 I’m currently working on **web development and coding internship and web development freelancing**
+- I’m currently **an IT Security Engineer Intern at a UAE-based company and a freelance web developer on Upwork.**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Reach out on:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mahnoor faisal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahnoor faisal" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/mahnoor-faisal-36493a2ba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahnoor faisal" height="30" width="40" /></a>
+<a href="https://www.upwork.com/freelancers/~0123c8d2af1fb979c6?mp_source=share" target="_blank"><img align="center"src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/upwork.svg"alt="Mahnoor F. on Upwork"height="30"width="40"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
