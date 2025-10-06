@@ -52,11 +52,11 @@
 
 <h3 align="left">🛠️ Tools & IDEs:</h3>
 <p align="left">
-  <a href="https://www.figma.com/" target="_blank"><img alt="Figma" src="https://custom-icon-badges.demolab.com/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img alt="Git" src="https://custom-icon-badges.demolab.com/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/></a>
   <a href="https://code.visualstudio.com/" target="_blank"><img alt="VS Code" src="https://custom-icon-badges.demolab.com/badge/VS%20Code-0078d7?style=for-the-badge&logo=visualstudiocode&logoColor=white"/></a>
   <a href="https://cursor.sh/" target="_blank"><img alt="Cursor" src="https://custom-icon-badges.demolab.com/badge/Cursor-0E76A8?style=for-the-badge&logo=cursor&logoColor=white"/></a>
   <a href="https://developer.android.com/studio" target="_blank"><img alt="Android Studio" src="https://custom-icon-badges.demolab.com/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/></a>
+  <a href="https://www.figma.com/" target="_blank"><img alt="Figma" src="https://custom-icon-badges.demolab.com/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/></a>
+  <a href="https://git-scm.com/" target="_blank"><img alt="Git" src="https://custom-icon-badges.demolab.com/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/></a>
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"><img alt="Excel" src="https://custom-icon-badges.demolab.com/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/></a>
 </p>
 
