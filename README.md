@@ -15,9 +15,9 @@
 </p>
 
 ### 📊 GitHub Stats:
-<a href="https://github.com/mahnoorfaisal">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahnoorfaisal&show_icons=true&theme=radical" alt="Mahnoor's GitHub stats" height="180px"/>
-</a>
+###<a href="https://github.com/mahnoorfaisal">
+  ###<img src="https://github-readme-stats.vercel.app/api?username=mahnoorfaisal&show_icons=true&theme=radical" alt="Mahnoor's GitHub stats" height="180px"/>
+###</a>
 <a href="https://github.com/mahnoorfaisal">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahnoorfaisal&layout=compact&theme=radical" alt="Top Languages" height="180px"/>
 </a>
