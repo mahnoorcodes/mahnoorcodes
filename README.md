@@ -18,6 +18,9 @@
 <a href="https://github.com/mahnoorfaisal">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahnoorfaisal&layout=compact&theme=radical" alt="Top Languages" height="180px"/>
 </a>
+<a href="https://github.com/mahnoorfaisal">
+  <img src="https://streak-stats.demolab.com/?user=mahnoorcodes&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="Streak" height="180px"/>
+</a>
 
 <h3 align="left">📝 Languages:</h3>
 <p align="left">
