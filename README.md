@@ -16,7 +16,11 @@
 
 ### 📊 GitHub Stats:
 <a href="https://github.com/mahnoorcodes">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mahnoorcodes&layout=compact&theme=radical"/>
+  <img
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mahnoorcodes&layout=compact&theme=radical"
+    alt="Top Languages"
+    height="180"
+  />
 </a>
 
 <h3 align="left">📝 Languages:</h3>
